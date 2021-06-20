@@ -34,7 +34,7 @@ meaning of acronyms, and so on
   
   **Headings*
   
- HTML has six "levels" of
+HTML has six "levels" of
 headings:
   
 1- h1 is used for main headings
@@ -43,21 +43,77 @@ headings:
   
 3- If there are further sections
 under the subheadings then the
-<h3> element is used, and so
+h3 element is used, and so
 on...
   
   
   **Paragraphs**
-  To create a paragraph, surround the words that make up the paragraph with an opening <p> tag and closing </p> tag.
+  To create a paragraph, surround the words that make up the paragraph with an opening < p > tag and closing </ p > tag.
   
   
   
   **Bold & Italic**
-  <b> By enclosing words in the tags <b> and </b> we can make characters appear bold.
-The <b> element also represents a section of text that would be presented in a visually different way (for example key words in aparagraph) although the use of
-the <b> element does not implyany additional meaning.
+  
+  < b > 
+    
+ By enclosing words in the tags < b > and < /b > we can make characters appear bold.
+The < b > element also represents a section of text that would be presented in a visually different way (for example key words in aparagraph) although the use of
+the < b > element does not implyany additional meaning.
+    
+    
+  <i>
+    
+By enclosing words in the tags <i> and </i> we can make characters appear italic. The <i> element also represents a section of text that would besaid in a 
+differen way from surrounding content — such as technical terms, names of ships, foreign words, thoughts, or other terms that would usually be italicized.
+
   
   
+  **Superscript & Subscrip**
+  
+  <sup>
+    
+The <sup> element is used to contain characters that should be superscript such as the suffixes of dates or mathematical concepts like raising a number to a
+power suchas 22
+
+    
+<sub>
+  
+The <sub> element is used to contain characters that should be subscript. It is commonly used with foot notes or chemical formulas such as H20.
+  
+  
+ ** White Space**
+  
+  In order to make code easier to   read, web page authors often add extra spaces or start some elements on new lines.
+When the browser comes across two or more spaces next to each other, it only displays one space.
+Similarly if it comes across a line break, it treats that as a single space too. This is known as white space collapsing
+  
+  
+  **Line Breaks & Horizontal Rules**
+  
+  
+<br />
+  
+As you have already seen, the browser will automatically show each new paragraph or heading on a new line. But if you wanted to add a line break inside the
+middle of a paragraph you canuse the line break tag <br />.
+  
+  
+  
+  <hr />
+  
+To create a break between themes — such as a change of topic in a book or a new scene in a play — you can add a horizontal rule between sections
+using the <hr /> tag
+  
+  
+  
+  **Strong & Emphasis**
+  
+  <strong>
+    
+The use of the <strong> element indicates that its content has strong importance.
+For example, the words contained in this element might be said with strong emphasis.
+    
+By default, browsers will show the contents of a <strong> element in bold.
+
   
   
   
