@@ -70,15 +70,15 @@ differen way from surrounding content — such as technical terms, names of ship
   
   **Superscript & Subscrip**
   
-  <sup>
+  < sup >
     
-The <sup> element is used to contain characters that should be superscript such as the suffixes of dates or mathematical concepts like raising a number to a
+The < sup > element is used to contain characters that should be superscript such as the suffixes of dates or mathematical concepts like raising a number to a
 power suchas 22
 
     
-<sub>
+< sub >
   
-The <sub> element is used to contain characters that should be subscript. It is commonly used with foot notes or chemical formulas such as H20.
+The < sub > element is used to contain characters that should be subscript. It is commonly used with foot notes or chemical formulas such as H20.
   
   
  ** White Space**
@@ -90,31 +90,61 @@ Similarly if it comes across a line break, it treats that as a single space too.
   
   **Line Breaks & Horizontal Rules**
   
-  
-<br />
+< br />
   
 As you have already seen, the browser will automatically show each new paragraph or heading on a new line. But if you wanted to add a line break inside the
-middle of a paragraph you canuse the line break tag <br />.
+middle of a paragraph you canuse the line break tag < br />.
   
   
   
-  <hr />
+   <hr />
   
 To create a break between themes — such as a change of topic in a book or a new scene in a play — you can add a horizontal rule between sections
-using the <hr /> tag
+using the < hr /> tag
   
   
   
   **Strong & Emphasis**
   
-  <strong>
+  < strong >
     
 The use of the <strong> element indicates that its content has strong importance.
 For example, the words contained in this element might be said with strong emphasis.
     
-By default, browsers will show the contents of a <strong> element in bold.
+By default, browsers will show the contents of a < strong > element in bold.
+    
+    
+    <em>
+      
+The <em> element indicates emphasis that subtly changes the meaning of a sentence.
+By default browsers will show the contents of an <em> element in italic.
 
   
+  **Quotations**
+      
+  <blockquote>
+    
+The <blockquote> element is used for longer quotes that take up an entire paragraph. Note how the <p> element is still used inside the <blockquote> element.
+Browsers tend to indent the contents of the <blockquote> element, however you should not use this element just to indent a piece of text — rather you should
+achieve this effect using CSS.
+    
+    
+<q>
+  
+The <q> element is used for shorter quotes that sit within a paragraph. Browsers are supposed to put quotes around the <q> element, however Internet Explorer does not —
+therefore many people avoidusing the <q> element.
   
   
+ **Abbreviations & Acronyms**
+  
+  <abbr> 
+    
+If you use an abbreviation or an acronym, then the <abbr> element can be used. A title attribute on the opening tag isused to specify the full term.
+
+
+    
+ **Citations & Definitions**
+    
+    
+    
   
