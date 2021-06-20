@@ -194,4 +194,17 @@ This attribute specifies that the audio track should play again once it has fini
 It is possible to specify more than one audio file using the <source> element between the opening <audio> and closing </audio> tags (instead of the src attribute 
 on the opening <audio> tag).
       
+# Summary
+FLASH, VIDEO & AUDIO
+      
+-[x]  Flash allows you to add animations, video and audio to
+the web.
+-[x]  Flash is not supported on iPhone or iPad.
+      
+-[x]  HTML5 introduces new <video> and <audio> elements for adding video and audio to web pages, but these are only supported in the latest browsers.
+      
+-[x]  Browsers that support the HTML5 elements do not all support the same video and audio formats, so you need to supply your files in different formats to ensure
+    that everyone can see/hear them
+      
+      
 
