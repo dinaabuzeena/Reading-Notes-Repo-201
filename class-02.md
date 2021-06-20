@@ -159,4 +159,39 @@ The <dfn> element is used toindicate the defining instance of a new term.
       
       
       
-  
+  # HTML5: Adding HTML5 Audio to Your Pages
+ **audio**
+      
+chapter-09/adding-html5-audio.html HTML HTML5 introduced the <audio> element to include audio files in your pages. As with HTML5
+video, browsers expect different formats for the audio. The <audio> element has a number of attributes which allow you to control audio playback: 
+        
+**src**
+      
+This attribute specifies the path
+to the audio file.
+        
+**controls**
+      
+This attribute indicates whether the player should display controls. If you do not use this attribute, no controls will be shown by default. You can also
+specify your own controls using JavaScript.
+        
+**autoplay**
+The presence of this attribute indicates that the audio should start playing automatically. (It is considered better practice to let visitors choose to play audio.)
+HTML5: Adding HTML5 Audio to Your Pages
+      
+      
+**preload**
+This attribute indicates what the browser should do if the player is not set to autoplay. It can have the same values we saw on page 214 for the <video> element.
+      
+      
+**loop**
+This attribute specifies that the audio track should play again once it has finished.
+      
+      
+# HTML5: Multiple Audio Sources
+< source >
+      
+It is possible to specify more than one audio file using the <source> element between the opening <audio> and closing </audio> tags (instead of the src attribute 
+on the opening <audio> tag).
+      
+
