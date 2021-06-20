@@ -1,0 +1,24 @@
+# Basic writing and formatting syntax
+- Create sophisticated formatting for your prose and code on GitHub with simple syntax.
+
+# In this article
+1- Headings
+2- Styling text
+3- Quoting text
+4- Quoting code
+5- Links
+6- Section links
+7- Relative links
+8- Lists
+9- Task lists
+10- Mentioning people and teams
+
+
+
+
+Headings
+To create a heading, add one to six # symbols before your heading text. The number of # you use will determine the size of the heading.
+
+# The largest heading
+## The second largest heading
+###### The smallest heading
