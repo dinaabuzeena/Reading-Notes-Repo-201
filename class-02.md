@@ -20,3 +20,51 @@ Once you have opened this page, you can look for the View menu in your browser, 
 depending on what browser you are using.)
 You should see a new window appear, and it will contain the source code that was used to create this page.
 You can see this result in the photograph on the right. The page you see is the window at the top; the code is below.
+  
+  
+**In this chapter** we focus on how to add markup to the text that
+appears on your pages. You will learn about:
+● Structural markup: the elements that you can use to
+describe both headings and paragraphs
+● Semantic markup: which provides extra information; such
+as where emphasis is placed in a sentence, that something
+you have written is a quotation (and who said it), the
+meaning of acronyms, and so on
+  
+  
+  **Headings**
+ <h1>
+<h2>
+<h3>
+<h4>
+<h5>
+<h6>
+  
+HTML has six "levels" of
+headings:
+  
+1- <h1> is used for main headings
+  
+2- <h2> is used for subheadings
+  
+3- If there are further sections
+under the subheadings then the
+<h3> element is used, and so
+on...
+  
+  
+  **Paragraphs**
+  To create a paragraph, surround the words that make up the paragraph with an opening <p> tag and closing </p> tag.
+  
+  
+  
+  **Bold & Italic**
+  <b> By enclosing words in the tags <b> and </b> we can make characters appear bold.
+The <b> element also represents a section of text that would be presented in a visually different way (for example key words in aparagraph) although the use of
+the <b> element does not implyany additional meaning.
+  
+  
+  
+  
+  
+  
