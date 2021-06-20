@@ -93,7 +93,8 @@ Similarly if it comes across a line break, it treats that as a single space too.
 < br />
   
 As you have already seen, the browser will automatically show each new paragraph or heading on a new line. But if you wanted to add a line break inside the
-middle of a paragraph you canuse the line break tag < br />.
+middle of a paragraph you canuse the line break tag < br />
+  
   
   
   
@@ -104,47 +105,58 @@ using the < hr /> tag
   
   
   
+  
   **Strong & Emphasis**
   
-  < strong >
+  <  strong  >
     
-The use of the <strong> element indicates that its content has strong importance.
+The use of the < strong > element indicates that its content has strong importance.
 For example, the words contained in this element might be said with strong emphasis.
     
 By default, browsers will show the contents of a < strong > element in bold.
     
     
-    <em>
+    
+  < em >
       
-The <em> element indicates emphasis that subtly changes the meaning of a sentence.
-By default browsers will show the contents of an <em> element in italic.
+The < em > element indicates emphasis that subtly changes the meaning of a sentence.
+By default browsers will show the contents of an  < em > element in italic.
 
   
+    
   **Quotations**
       
-  <blockquote>
+  < blockquote >
     
-The <blockquote> element is used for longer quotes that take up an entire paragraph. Note how the <p> element is still used inside the <blockquote> element.
-Browsers tend to indent the contents of the <blockquote> element, however you should not use this element just to indent a piece of text — rather you should
-achieve this effect using CSS.
+The < blockquote  > element is used for longer quotes that take up an entire paragraph. 
     
-    
-<q>
+   
+< q >
   
 The <q> element is used for shorter quotes that sit within a paragraph. Browsers are supposed to put quotes around the <q> element, however Internet Explorer does not —
-therefore many people avoidusing the <q> element.
+therefore many people avoidusing the < q > element.
   
   
  **Abbreviations & Acronyms**
   
-  <abbr> 
+  < abbr  > 
     
 If you use an abbreviation or an acronym, then the <abbr> element can be used. A title attribute on the opening tag isused to specify the full term.
 
 
     
- **Citations & Definitions**
+ **Citations & Definitions*
     
+    <cite>
+      
+When you are referencing apiece of work such as a book,film or research paper, the<cite> element can be usedto indicate where the citation isfrom.
+In HTML5, <cite> should notreally be used for a person'sname — but it was allowed inHTML 4, so most people arelikely to continue to use it.
     
+    <dfn>
+The first time you explain somenew terminology (perhaps anacademic concept or somejargon) in a document, it isknown as the defining instanceof it.
+The <dfn> element is used toindicate the defining instance of a new term.
     
+      
+      
+      
   
