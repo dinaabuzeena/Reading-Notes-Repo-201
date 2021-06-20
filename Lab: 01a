@@ -100,7 +100,7 @@ github page are public webpage host and easily published througtgithub.
 
 
 
-# Create Your Website
+**Create Your Website**
 - Once you’ve signed in, you’ll create a new repository to get started.
 - On the new repository screen, you need to give this repository a special name to generate your website.
 - Your website’s files will live in a repository named username.github.io (where “username” is your actual GitHub user name). To begin setting up your site, you have to open the Settings tab
@@ -114,18 +114,18 @@ github page are public webpage host and easily published througtgithub.
 # Making Changes
 [x] One of the first things you can do is remove the default title of your index page, and add a friendlier message to it. Since this is a very quick change – and your first one – you’re going to make it on the default branch: main.
 
-[x] View the _config.yml file by navigating to it in the Code tab. You can edit the file by clicking on the pencil icon.
+-[x] View the _config.yml file by navigating to it in the Code tab. You can edit the file by clicking on the pencil icon.
 
-[x] Currently your site has no set title, so we’re falling back to the name of the repo. To change this, I’m going to add the line “title: Welcome to the Octocat’s homepage!” to this file. Feel free to do the same, except for your own username.
+-[x] Currently your site has no set title, so we’re falling back to the name of the repo. To change this, I’m going to add the line “title: Welcome to the Octocat’s homepage!” to this file. Feel free to do the same, except for your own username.
 
-[x] Under this title, you can add a message about the purpose of the page and describe what you want people to do while they’re here. I’m going set mine to “Feel free to bookmark this to keep an eye on my project updates”
+-[x] Under this title, you can add a message about the purpose of the page and describe what you want people to do while they’re here. I’m going set mine to “Feel free to bookmark this to keep an eye on my project updates”
 
-[x] After you’re done making this small change, scroll to the bottom of the page to make your second commit. You have two places to write about this change: a subject and an extended description. The extended description is optional, so let’s leave a descriptive message in the subject.
+-[x] After you’re done making this small change, scroll to the bottom of the page to make your second commit. You have two places to write about this change: a subject and an extended description. The extended description is optional, so let’s leave a descriptive message in the subject.
 
-[x] When you’re done, click Commit changes and your updates will go live in just a few seconds!
+-[x] When you’re done, click Commit changes and your updates will go live in just a few seconds!
 
 
-
+:blush:
 
 
 
