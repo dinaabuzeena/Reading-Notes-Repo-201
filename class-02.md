@@ -32,20 +32,14 @@ you have written is a quotation (and who said it), the
 meaning of acronyms, and so on
   
   
-  **Headings**
- <h1>
-<h2>
-<h3>
-<h4>
-<h5>
-<h6>
+  **Headings*
   
-HTML has six "levels" of
+ HTML has six "levels" of
 headings:
   
-1- <h1> is used for main headings
+1- h1 is used for main headings
   
-2- <h2> is used for subheadings
+2- h2 is used for subheadings
   
 3- If there are further sections
 under the subheadings then the
