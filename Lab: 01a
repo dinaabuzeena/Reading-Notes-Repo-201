@@ -96,21 +96,33 @@ You can mention a person or team on GitHub by typing @ plus their username or te
 
 
 # Getting Started with GitHub Pages
-github page
+github page are public webpage host and easily published througtgithub.
 
 
 
 # Create Your Website
 - Once you’ve signed in, you’ll create a new repository to get started.
--On the new repository screen, you need to give this repository a special name to generate your website.
--Your website’s files will live in a repository named username.github.io (where “username” is your actual GitHub user name). To begin setting up your site, you have to open the Settings tab
+- On the new repository screen, you need to give this repository a special name to generate your website.
+- Your website’s files will live in a repository named username.github.io (where “username” is your actual GitHub user name). To begin setting up your site, you have to open the Settings tab
+- If you scroll down on the settings page, you’ll see the GitHub Pages section near the bottom. Click the Choose a theme button to start the process of creating your site.
+- once you've clicked the button,you'll be directed to the theme chooser. you'll see several theme options in a carousel across the top of the page. click on the image to preview the the themes. once you've selected one ,click select theme onthe right to move on. it's easy to change your theme later.
+- Here’s where you’ll write your own content (You can keep the default content for now, if you’d like).
+- Once you’re finished editing, scroll down to the bottom of the page and click Commit changes.
+- GitHub does all the work to direct visitors to username.github.io to view your new website. This can take up to 10 minutes. After some time has passed, you can open a new tab in your browser to go to your site!
 
 
+# Making Changes
+[x] One of the first things you can do is remove the default title of your index page, and add a friendlier message to it. Since this is a very quick change – and your first one – you’re going to make it on the default branch: main.
 
+[x] View the _config.yml file by navigating to it in the Code tab. You can edit the file by clicking on the pencil icon.
 
+[x] Currently your site has no set title, so we’re falling back to the name of the repo. To change this, I’m going to add the line “title: Welcome to the Octocat’s homepage!” to this file. Feel free to do the same, except for your own username.
 
+[x] Under this title, you can add a message about the purpose of the page and describe what you want people to do while they’re here. I’m going set mine to “Feel free to bookmark this to keep an eye on my project updates”
 
+[x] After you’re done making this small change, scroll to the bottom of the page to make your second commit. You have two places to write about this change: a subject and an extended description. The extended description is optional, so let’s leave a descriptive message in the subject.
 
+[x] When you’re done, click Commit changes and your updates will go live in just a few seconds!
 
 
 
