@@ -1,11 +1,11 @@
 # Reading-Notes-Repo-201
 
 
-# hi My name is a Dina abuzenah i'm communication engineer i'm graduated from Al Blqaa applied University
+### hi My name is a Dina abuzenah i'm communication engineer i'm graduated from Al Blqaa applied University
 
 
 
-<<<<<<< HEAD
+
 |  num 	       | name                                                  	|
 |---	       |---	                                                    |
 |class 1       | Introductory HTML and JavaScript                      	|
