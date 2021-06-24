@@ -56,4 +56,5 @@
 2. [class 2](https://github.com/dinaabuzeena/Reading-Notes-Repo-201)
 3. [class 3](https://github.com/dinaabuzeena/Reading-Notes-Repo-201)
 4. [class 4](https://github.com/dinaabuzeena/Reading-Notes-Repo-201) 
->>>>>>> eb1392642b7538a67e45842a5f6ab9c09651bd92
+5  [class 5](https://github.com/dinaabuzeena/Reading-Notes-Repo-201) 
+
