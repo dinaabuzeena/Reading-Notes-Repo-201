@@ -13,7 +13,7 @@
 |class 3     |   HTML Lists, CSS Boxes, JS Control Flow               |
 |class 4     | HTML Links, CSS Layout, JS Functions  	                |
 |class 5     | HTML Images; CSS Color & Text   	                      |
-|            |   	                                                    |
+|class 6     |  problem Domain, Objects, and the DOM 	                                                    |
 |            |   	                                                    |
 |   	       |   	                                                    |
 |   	       |     	                                                  |
@@ -38,7 +38,7 @@
 |class 3    | https://github.com/dinaabuzeena/Reading-Notes-Repo-201) 	|
 |class 4    | https://github.com/dinaabuzeena/Reading-Notes-Repo-201)   |
 |class5    	| https://github.com/dinaabuzeena/Reading-Notes-Repo-201    |
-|         	|   	                                                      |
+|class6    	|  https://github.com/dinaabuzeena/Reading-Notes-Repo-201   |
 |   	      |                                                          	|
 |   	      |                                                         	|
 |         	|                                                         	|
@@ -57,4 +57,4 @@
 3. [class 3](https://github.com/dinaabuzeena/Reading-Notes-Repo-201)
 4. [class 4](https://github.com/dinaabuzeena/Reading-Notes-Repo-201) 
 5  [class 5](https://github.com/dinaabuzeena/Reading-Notes-Repo-201) 
-
+6  [class 6]((https://github.com/dinaabuzeena/Reading-Notes-Repo-201)
