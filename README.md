@@ -16,7 +16,7 @@
 |class 6     |  problem Domain, Objects, and the DOM 	                                                    |
 |class 7     |  Object-Oriented Programming, HTML Tables 	            |
 | class 8    |   CSS Layout                                           |
-|   	       |     	                                                  |
+| class 9  	 |  Forms and JS Events    	                                                  |
 |   	       |   	                                                    |
 |   	       |   	                                                    |
 |      	     |   	                                                    |
@@ -41,7 +41,7 @@
 |class6    	|  https://github.com/dinaabuzeena/Reading-Notes-Repo-201   |
 | class 7  	|  https://github.com/dinaabuzeena/Reading-Notes-Repo-201                                                         	|
 |class8     |  https://github.com/dinaabuzeena/Reading-Notes-Repo-201                                                        	|
-|         	|                                                         	|
+|class9         	|https://github.com/dinaabuzeena/Reading-Notes-Repo-201                                                          	|
 |         	|                                                         	|
 |          	|   	                                                      |
 |   	      |   	                                                      |
@@ -60,3 +60,4 @@
 6  [class 6]((https://github.com/dinaabuzeena/Reading-Notes-Repo-201)
 7  [class 7]((https://github.com/dinaabuzeena/Reading-Notes-Repo-201)
 8  [class 8]((https://github.com/dinaabuzeena/Reading-Notes-Repo-201)
+9 [class 9]((https://github.com/dinaabuzeena/Reading-Notes-Repo-201)
