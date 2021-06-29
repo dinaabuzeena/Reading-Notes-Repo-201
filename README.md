@@ -15,7 +15,7 @@
 |class 5     | HTML Images; CSS Color & Text   	                      |
 |class 6     |  problem Domain, Objects, and the DOM 	                                                    |
 |class 7     |  Object-Oriented Programming, HTML Tables 	            |
-|   	       |   	                                                    |
+| class 8    |   CSS Layout                                           |
 |   	       |     	                                                  |
 |   	       |   	                                                    |
 |   	       |   	                                                    |
@@ -40,7 +40,7 @@
 |class5    	| https://github.com/dinaabuzeena/Reading-Notes-Repo-201    |
 |class6    	|  https://github.com/dinaabuzeena/Reading-Notes-Repo-201   |
 | class 7  	|  https://github.com/dinaabuzeena/Reading-Notes-Repo-201                                                         	|
-|   	      |                                                         	|
+|class8     |  https://github.com/dinaabuzeena/Reading-Notes-Repo-201                                                        	|
 |         	|                                                         	|
 |         	|                                                         	|
 |          	|   	                                                      |
@@ -59,3 +59,4 @@
 5  [class 5](https://github.com/dinaabuzeena/Reading-Notes-Repo-201) 
 6  [class 6]((https://github.com/dinaabuzeena/Reading-Notes-Repo-201)
 7  [class 7]((https://github.com/dinaabuzeena/Reading-Notes-Repo-201)
+8  [class 8]((https://github.com/dinaabuzeena/Reading-Notes-Repo-201)
