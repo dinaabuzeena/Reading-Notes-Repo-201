@@ -6,58 +6,19 @@
 
 
 
-|  num 	     | name                                                  	|
-|---	       |---	                                                    |
-|class 1     | Introductory HTML and JavaScript                      	|
-|class 2 	   | 	Basics of HTML, CSS & JS                              |
-|class 3     |   HTML Lists, CSS Boxes, JS Control Flow               |
-|class 4     | HTML Links, CSS Layout, JS Functions  	                |
-|class 5     | HTML Images; CSS Color & Text   	                      |
-|class 6     |  problem Domain, Objects, and the DOM 	                                                    |
-|class 7     |  Object-Oriented Programming, HTML Tables 	            |
-| class 8    |   CSS Layout                                           |
-| class 9  	 |  Forms and JS Events    	                                                  |
-|   	       |   	                                                    |
-|   	       |   	                                                    |
-|      	     |   	                                                    |
-|   	       |   	                                                    |
-|   	       |   	                                                    |
-
-
-
-
-
-
-
 # Table of contents
 
 |          	|   	                                                      |
-|--:	      |---	                                                      |
-|class 1   	|https://github.com/dinaabuzeena/Reading-Notes-Repo-201)   	|
-|class 2    |https://github.com/dinaabuzeena/Reading-Notes-Repo-201) 	  |
-|class 3    | https://github.com/dinaabuzeena/Reading-Notes-Repo-201) 	|
-|class 4    | https://github.com/dinaabuzeena/Reading-Notes-Repo-201)   |
-|class5    	| https://github.com/dinaabuzeena/Reading-Notes-Repo-201    |
-|class6    	|  https://github.com/dinaabuzeena/Reading-Notes-Repo-201   |
-| class 7  	|  https://github.com/dinaabuzeena/Reading-Notes-Repo-201                                                         	|
-|class8     |  https://github.com/dinaabuzeena/Reading-Notes-Repo-201                                                        	|
-|class9         	|https://github.com/dinaabuzeena/Reading-Notes-Repo-201                                                          	|
-|         	|                                                         	|
-|          	|   	                                                      |
-|   	      |   	                                                      |
-|   	      |                                                         	|
-|   	      |   	                                                      |
-
-
-
-
-# Table of contents
-1. [class 1](https://github.com/dinaabuzeena/Reading-Notes-Repo-201)
-2. [class 2](https://github.com/dinaabuzeena/Reading-Notes-Repo-201)
-3. [class 3](https://github.com/dinaabuzeena/Reading-Notes-Repo-201)
-4. [class 4](https://github.com/dinaabuzeena/Reading-Notes-Repo-201) 
-5.  [class 5](https://github.com/dinaabuzeena/Reading-Notes-Repo-201) 
-6.  [class 6]((https://github.com/dinaabuzeena/Reading-Notes-Repo-201)
-7.  [class 7]((https://github.com/dinaabuzeena/Reading-Notes-Repo-201)
-8.  [class 8]((https://github.com/dinaabuzeena/Reading-Notes-Repo-201)
-9. [class 9]((https://github.com/dinaabuzeena/Reading-Notes-Repo-201)
+|--:	    |---	                                                      |
+|class 1   	|[any](https://dinaabuzeena.github.io/Reading-Notes-Repo-201/class-01)   	|
+|class 2    |[any](https://dinaabuzeena.github.io/Reading-Notes-Repo-201/class-02)	  |
+|class 3    |[any](https://dinaabuzeena.github.io/Reading-Notes-Repo-201/class-03) 	|
+|class 4    |[any](https://dinaabuzeena.github.io/Reading-Notes-Repo-201/class-04)   |
+|class 5   	|[any](https://dinaabuzeena.github.io/Reading-Notes-Repo-201/class-05)|
+|class 6   	|[any](https://dinaabuzeena.github.io/Reading-Notes-Repo-201/class-06)|
+ class 7  	|[any](https://dinaabuzeena.github.io/Reading-Notes-Repo-201/class-07)|
+ class 8   	|[any](https://dinaabuzeena.github.io/Reading-Notes-Repo-201/class-08)   	|
+|class 9    |[any](https://dinaabuzeena.github.io/Reading-Notes-Repo-201/class-08)	  |
+|class 10   |[any](https://dinaabuzeena.github.io/Reading-Notes-Repo-201/class-10) 	|
+|class 11   |[any](https://dinaabuzeena.github.io/Reading-Notes-Repo-201/class-11)   |
+|class 12  	|[any](https://dinaabuzeena.github.io/Reading-Notes-Repo-201/class-12)|
