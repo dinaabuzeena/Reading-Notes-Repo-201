@@ -24,7 +24,7 @@ The first thing we need to do is download Chart.js. Copy the Chart.min.js out of
 Drawing a line chart
 To draw a line chart, the first thing we need to do is create a canvas element in our HTML in which Chart.js can draw our chart. So add this to the body of our HTML page:
 
-<canvas id="buyers" width="600" height="400"></canvas>
+canvas id="buyers" width="600" height="400"></canvas>
 Next, we need to write a script that will retrieve the context of the canvas, so add this to the foot of your body element:
 
 <script>
