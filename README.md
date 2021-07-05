@@ -3,7 +3,13 @@
 **Code 201 Reading Notes**
 
 
-##### hi My name is a Dina abuzenah i'm communication engineer i'm graduated from Al Blqaa applied University, The aim of taking this course is to obtain new opportunities in the field of work
+<p> hi My name is a Dina abuzenah i'm communication engineer i'm graduated from Al Blqaa applied University, The aim of taking this course is to obtain new opportunities in the field of work </p>
+
+<ul>
+<li> Email : dinamohammad735@gmail.com</li>
+<li> phone : 0776086263</li>
+
+</ul>
 
 
 
