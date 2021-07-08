@@ -31,7 +31,7 @@
 |class 10   |[any](https://dinaabuzeena.github.io/Reading-Notes-Repo-201/class-10) 	|
 |class 11   |[any](https://dinaabuzeena.github.io/Reading-Notes-Repo-201/class-11)   |
 |class 12  	|[any](https://dinaabuzeena.github.io/Reading-Notes-Repo-201/class-12)|
-|class 13   |	  |
-|class 14   | 	|
-|class 15   |   |
+|class 13   |[any](https://dinaabuzeena.github.io/Reading-Notes-Repo-201/class-13)	  |
+|class 14   |[any](https://dinaabuzeena.github.io/Reading-Notes-Repo-201/class-14a) 	|
+|class 14   |[any](https://dinaabuzeena.github.io/Reading-Notes-Repo-201/class-14b) |
 
